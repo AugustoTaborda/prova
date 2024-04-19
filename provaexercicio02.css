@@ -1,0 +1,80 @@
+.color01 {
+    background-color: rgb(247, 82, 82);
+    color: rgb(247, 82, 82);
+    margin-top: 10px;
+    margin: 40px;
+    border: rgb(247, 82, 82);
+    padding: 100px;
+    width: 50px;
+}
+
+#color02 {
+    background-color: rgb(247, 82, 82);
+    color: rgb(247, 82, 82);
+    margin-top: 20px;
+    border: rgb(247, 82, 82);
+    padding: 100px;
+    margin: 40px;
+    width: 50px;
+
+}
+
+#color03 {
+    background-color: rgb(247, 82, 82);
+    color: rgb(247, 82, 82);
+    margin-top: 20px;
+    border: rgb(247, 82, 82);
+    padding: 100px;
+    width: 50px;
+    margin: 40px;
+
+}
+
+.color04 {
+    color: blue;
+    background-color: blue;
+    height: 210px;
+    color: blue;
+    margin-left: 400px;
+    margin-top: -767px;
+    padding-right: 1000px;
+    width: 50px;
+
+}
+
+.color05 {
+    color: blue;
+    background-color: blue;
+    height: 210px;
+    color: blue;
+    margin-left: 400px;
+    margin-top: 300px;
+    padding-right: 1000px;
+    width: 50px;
+
+}
+
+.color06 {
+
+    color: blue;
+    background-color: blue;
+    height: 210px;
+    color: blue;
+    margin-left: 400px;
+    margin-top: -450px;
+    padding-right: 1000px;
+    width: 50px;
+}
+
+.color07 {
+
+    color: rgb(112, 112, 59);
+    background-color: rgb(112, 112, 59);
+    height: 200px;
+    color: rgb(112, 112, 59);
+    margin-left: 40px;
+    margin-top: 300px;
+    padding-right: 1350px;
+    width: 50px;
+
+}

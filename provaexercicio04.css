@@ -1,0 +1,102 @@
+body {
+    background-color: azure;
+    width: 200px;
+}
+
+.color01 {
+    background-color: rgb(247, 82, 82);
+    color: rgb(247, 82, 82);
+    margin-top: 10px;
+    margin: 40px;
+    border: rgb(247, 82, 82);
+    padding: 100px;
+    width: 250px;
+}
+
+.color02 {
+    background-color: orange;
+    color: orange;
+    margin-top: 1px;
+    border: orange;
+    padding: 200px;
+    margin: 40px;
+    width: 50px;
+
+}
+
+.color03 {
+
+    color: rgb(50, 112, 194);
+    background-color: rgb(50, 112, 194);
+    height: 210px;
+    color: rgb(50, 112, 194);
+    margin-left: 550px;
+    margin-top: -717px;
+    padding-right: 600px;
+    width: 70px;
+}
+
+.color04 {
+
+    color: rgb(50, 112, 194);
+    background-color: rgb(50, 112, 194);
+    height: 400px;
+    color: rgb(50, 112, 194);
+    margin-left: 550px;
+    margin-top: 50px;
+    padding-right: 750px;
+    width: 180px;
+
+}
+
+.color05 {
+    color: green;
+    background-color: green;
+    width: 180px;
+    padding-right: 50px;
+    margin-top: -660px;
+    margin-left: 1250px;
+    height: 210px;
+    width: 180px;
+}
+
+.color06 {
+
+    color: rgb(0, 195, 255);
+    background-color: rgb(0, 195, 255);
+    width: 180px;
+    padding-right: 50px;
+    margin-top: -210px;
+    margin-left: 1510px;
+    height: 670px;
+    width: 180px;
+
+
+}
+
+.color07 {
+
+    color: blue;
+    background-color: blue;
+    width: 180px;
+    padding-right: 50px;
+    margin-top: -675px;
+    margin-left: 1790px;
+    height: 670px;
+    width: 180px;
+
+}
+
+.color08 {
+
+    color: rgb(0, 255, 255);
+    background-color: rgb(0, 255, 255);
+    width: 160px;
+    padding-right: -10px;
+    margin-top: -670px;
+    margin-left: 2040px;
+    height: 665px;
+    width: 50px;
+
+}
+

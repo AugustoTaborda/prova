@@ -1,0 +1,34 @@
+body {
+   background-color: white; 
+}
+
+.color01 {
+    background-color: rgb(247, 82, 82);
+    color: rgb(247, 82, 82);
+    margin-top: 50px;
+    border: rgb(247, 82, 82);
+    padding: 100px;
+    width: 1000px;
+}
+    
+
+#color02 {
+    background-color: greenyellow;
+    margin-top: 20px;
+    height: 700px;
+    color: greenyellow;
+    width: 400px;
+}
+
+#color03 {
+    color: blueviolet;
+    background-color: blueviolet;
+    height: 700px;
+    color: blueviolet;
+    float: left;
+    margin-left: 450px;
+    margin-top: 0,0001px;
+    padding-right: 700px;
+    width: 50px;
+
+}
